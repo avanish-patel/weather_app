@@ -1,4 +1,4 @@
-#Weather App - React
+# Weather App - React
 
 ![video](weather_app.gif)
 
